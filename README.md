@@ -9,7 +9,7 @@ npm install<br/>
 npm run build<br/>
 npm run start<br/>
 server start => localhost:8080<br/>
-#主要功能:
+#主要功能
 1.登录<br/>
 2.查询(列表查询,个人查询:支持模糊查询)<br/>
 3.分页<br/>
