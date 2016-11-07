@@ -1,5 +1,5 @@
-# maven_ssm
 #Introdution
+&nbsp;&nbsp;java和react的简单集成<br/>
 <pre>java和react的简单集成</pre>
 前端: react+redux</p>
 <p>后端:maven+springmvc+spring+mybatis</p>
