@@ -16,7 +16,6 @@ server start => localhost:8080<br/>
 4.后续会继续完善<br/>
 #关键问题
 我觉得主要问题只有一个,就是springmvc对于前端路由的拦截问题,配置url-pattern的时候,对于前端路由应该单独找一个servlet来负责转发。具体查看com.hd.servlet/UrlServlet
-#项目截图
 
 
 
