@@ -19,9 +19,9 @@ server start => localhost:8080<br/>
 #关键问题
 springmvc对于前端路由的拦截问题,配置url-pattern的时候,对于前端路由应该单独找一个servlet来负责转发。具体查看com.hd.servlet/UrlServlet
 #项目截图
- ![image](https://github.com/Johnson-hd/maven_ssm/tree/master/src/main/webapp/public/static/images/project_1.png)<br/>
- ![image](https://github.com/Johnson-hd/maven_ssm/tree/master/src/main/webapp/public/static/images/project_2.png)<br/>
- ![image](https://github.com/Johnson-hd/maven_ssm/tree/master/src/main/webapp/public/static/images/project_3.png)<br/>
+ ![image](https://github.com/Johnson-hd/maven_ssm/raw/master/src/main/webapp/public/static/images/project_1.png)<br/>
+ ![image](https://github.com/Johnson-hd/maven_ssm/raw/master/src/main/webapp/public/static/images/project_2.png)<br/>
+ ![image](https://github.com/Johnson-hd/maven_ssm/raw/master/src/main/webapp/public/static/images/project_3.png)<br/>
 
 
 
