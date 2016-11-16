@@ -1,8 +1,10 @@
 #说明
-java和react集成
+java和react集成<br/>
+关于nodejs和react的集成,请查看https://github.com/Johnson-hd/mms
 #框架
 前端:react+redux<br/>
 后端:maven+springmvc+spring+mybatis<br/>
+数据库:mysql<br/>
 #执行
 bower install(可以没有,已经放入了webapp/public/static文件中,方便下载)<br/>
 npm install<br/>
@@ -15,7 +17,7 @@ server start => localhost:8080<br/>
 3.分页<br/>
 4.后续会继续完善<br/>
 #关键问题
-我觉得主要问题只有一个,就是springmvc对于前端路由的拦截问题,配置url-pattern的时候,对于前端路由应该单独找一个servlet来负责转发。具体查看com.hd.servlet/UrlServlet
+springmvc对于前端路由的拦截问题,配置url-pattern的时候,对于前端路由应该单独找一个servlet来负责转发。具体查看com.hd.servlet/UrlServlet
 
 
 
